@@ -1,0 +1,64 @@
+// SPDX-FileCopyrightText: 2024 Shun Sakai
+//
+// SPDX-License-Identifier: CC0-1.0
+
+= Public Data License in Lightweight Markup Languages
+:github-url: https://github.com
+:project-url: {github-url}/sorairolake/japanese-era-dataset
+:shields-url: https://img.shields.io
+:ci-badge: {shields-url}/github/actions/workflow/status/sorairolake/japanese-era-dataset/CI.yaml?branch=develop&style=for-the-badge&logo=github&label=CI
+:ci-url: {project-url}/actions?query=branch%3Adevelop+workflow%3ACI++
+:da-url: https://www.digital.go.jp
+:pdl10-url: {da-url}/resources/open_data/public_data_license_v1.0
+:pdl10-pdf-url: {da-url}/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/24afdf33/20240705_resources_data_outline_05.pdf
+:reuse-spec-url: https://reuse.software/spec/
+
+image:{ci-badge}[CI,link={ci-url}]
+
+link:README.adoc[日本語]
+
+The {pdl10-url}[*Public Data License (Version 1.0)*] is the terms of use
+established by the Digital Agency on July 2024 for use by public institutions
+such as the Government of Japan or local public entities. As of 5 September
+2024, this is available as Web text or PDF.
+
+This project provides the terms of use written in lightweight markup languages
+such as Markdown.
+
+== Available formats
+
+* https://asciidoc.org/[AsciiDoc]
+* https://commonmark.org/[CommonMark] (Markdown)
+
+== Changelog
+
+Please see link:CHANGELOG.adoc[].
+
+== Contributing
+
+Please see link:CONTRIBUTING.adoc[].
+
+== Source
+
+The source can be referred at {pdl10-url}. The terms of use is also available
+as {pdl10-pdf-url}[PDF].
+
+== License
+
+Copyright (C) 2024 Digital Agency
+Copyright (C) 2024 Shun Sakai
+
+. Unless otherwise noted, the contents of this repository are distributed under
+  the terms of the _Creative Commons Attribution 4.0 International Public
+  License_.
+. In addition, some files are distributed under the terms of the _CC0 1.0
+  Universal_.
+
+The source is licensed under the
+{pdl10-url}[_Public Data License (Version 1.0)_]. The Terms of Use are
+compatible with the _CC BY 4.0 license_. For the terms of use of the source,
+see https://www.digital.go.jp/copyright-policy.
+
+This project is compliant with version 3.2 of the
+{reuse-spec-url}[_REUSE Specification_]. See copyright notices of individual
+files for more details on copyright and licensing information.
