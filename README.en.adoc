@@ -27,8 +27,13 @@ such as Markdown.
 
 == Available formats
 
-* https://asciidoc.org/[AsciiDoc]
-* https://commonmark.org/[CommonMark] (Markdown)
+https://asciidoc.org/[AsciiDoc]::
+
+  link:PDL-1.0.adoc[]
+
+https://commonmark.org/[CommonMark]::
+
+  link:PDL-1.0.md[]
 
 == Changelog
 

@@ -24,8 +24,13 @@ link:{pdl10-url}[*公共データ利用規約（第1.0版）*]は日本国政府
 
 == 利用可能なフォーマット
 
-* https://asciidoc.org/[AsciiDoc]
-* https://commonmark.org/[CommonMark]（Markdown）
+https://asciidoc.org/[AsciiDoc]::
+
+  link:PDL-1.0.adoc[]
+
+https://commonmark.org/[CommonMark]::
+
+  link:PDL-1.0.md[]
 
 == 変更履歴
 
