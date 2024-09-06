@@ -1,17 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2024 Digital Agency
-SPDX-FileCopyrightText: 2024 Shun Sakai
-
-SPDX-License-Identifier: CC-BY-4.0
-
-SPDX-FileAttributionText: <text>
-This work is adapted from PDL1.0
-<https://www.digital.go.jp/resources/open_data/public_data_license_v1.0> by the
-Digital Agency <https://www.digital.go.jp/>, used under PDL1.0
-<https://www.digital.go.jp/resources/open_data/public_data_license_v1.0>.
-</text>
--->
-
 # 公共データ利用規約（第1.0版）
 
 国又は地方公共団体等の公的機関が著作権者である著作物について、広く二次利用を認める形で著作物の利用に対する考えを示すに当たり、できるだけ分かりやすく統一的なものとするため、各府省又は地方公共団体等の公的機関のウェブサイトの利用規約の本文として定めます。
