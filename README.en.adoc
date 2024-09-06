@@ -35,6 +35,10 @@ https://commonmark.org/[CommonMark]::
 
   link:PDL-1.0.md[]
 
+https://djot.net/[Djot]::
+
+  link:PDL-1.0.dj[]
+
 == Changelog
 
 Please see link:CHANGELOG.adoc[].

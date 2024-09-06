@@ -32,6 +32,10 @@ https://commonmark.org/[CommonMark]::
 
   link:PDL-1.0.md[]
 
+https://djot.net/[Djot]::
+
+  link:PDL-1.0.dj[]
+
 == 変更履歴
 
 link:CHANGELOG.adoc[]を参照して下さい。
