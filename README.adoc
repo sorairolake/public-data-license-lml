@@ -36,6 +36,10 @@ https://djot.net/[Djot]::
 
   link:PDL-1.0.dj[]
 
+https://docutils.sourceforge.io/rst.html[reStructuredText]::
+
+  link:PDL-1.0.rst[]
+
 == 変更履歴
 
 link:CHANGELOG.adoc[]を参照して下さい。

@@ -39,6 +39,10 @@ https://djot.net/[Djot]::
 
   link:PDL-1.0.dj[]
 
+https://docutils.sourceforge.io/rst.html[reStructuredText]::
+
+  link:PDL-1.0.rst[]
+
 == Changelog
 
 Please see link:CHANGELOG.adoc[].
