@@ -15,7 +15,7 @@ link:README.adoc[日本語]
 The {pdl10-url}[*Public Data License (Version 1.0)*] is the terms of use
 established by the Digital Agency on July 2024 for use by public institutions
 such as the Government of Japan or local public entities. As of 5 September
-2024, this is available as Web text or PDF.
+2024, this is available as Web text or PDF in Japanese.
 
 This project provides the terms of use written in lightweight markup languages
 such as Markdown.
