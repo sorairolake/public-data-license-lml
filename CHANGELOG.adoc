@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2024 Shun Sakai
+//
+// SPDX-License-Identifier: CC0-1.0
+
+= Changelog
+:toc: preamble
+:project-url: https://github.com/sorairolake/public-data-license-lml
+:compare-url: {project-url}/compare
+:issue-url: {project-url}/issues
+:pull-request-url: {project-url}/pull
+
+All notable changes to this project will be documented in this file.
+
+The format is based on https://keepachangelog.com/[Keep a Changelog], and this
+project adheres to https://calver.org/[Calendar Versioning].
+
+== {project-url}/releases/tag/v2024.09.09[2024.09.09] - 2024-09-09
+
+=== Added
+
+* Initial release

@@ -1,0 +1,84 @@
+// SPDX-FileCopyrightText: 2024 Shun Sakai
+//
+// SPDX-License-Identifier: CC0-1.0
+
+= 軽量マークアップ言語による公共データ利用規約
+:da-url: https://www.digital.go.jp
+:pdl10-url: {da-url}/resources/open_data/public_data_license_v1.0
+:asciidoctor-url: https://asciidoctor.org/
+:pandoc-url: https://pandoc.org/
+:pdl10-pdf-url: {da-url}/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/24afdf33/20240705_resources_data_outline_05.pdf
+:reuse-spec-url: https://reuse.software/spec/
+
+link:README.en.adoc[English]
+
+link:{pdl10-url}[*公共データ利用規約（第1.0版）*]は日本国政府や地方公共団体などの公的機関が使用するために2024年7月にデジタル庁が定めた利用規約です。
+2024年9月5日現在、日本語のウェブテキストまたはPDFとして利用できます。
+
+このプロジェクトはMarkdownなどの軽量マークアップ言語で書かれたこの利用規約を提供します。
+
+== 利用可能なフォーマット
+
+https://asciidoc.org/[AsciiDoc]::
+
+  link:PDL-1.0.adoc[]
+
+https://commonmark.org/[CommonMark]::
+
+  link:PDL-1.0.md[]
+
+https://djot.net/[Djot]::
+
+  link:PDL-1.0.dj[]
+
+https://orgmode.org/[Org]::
+
+  link:PDL-1.0.org[]
+
+https://docutils.sourceforge.io/rst.html[reStructuredText]::
+
+  link:PDL-1.0.rst[]
+
+=== 他のフォーマットに変換する
+
+これらのファイルはlink:{asciidoctor-url}[Asciidoctor]やlink:{pandoc-url}[Pandoc]によって他のフォーマットに変換することができます。
+
+.AsciiDocをHTMLに変換する
+[source,sh]
+----
+asciidoctor PDL-1.0.adoc
+----
+
+.CommonMarkをHTMLに変換する
+[source,sh]
+----
+pandoc -f commonmark -o PDL-1.0.html -s PDL-1.0.md
+----
+
+== 変更履歴
+
+link:CHANGELOG.adoc[]を参照して下さい。
+
+== 貢献方法
+
+link:CONTRIBUTING.adoc[]を参照して下さい。
+
+== 原典
+
+原典はlink:{pdl10-url}[]で参照できます。
+この利用規約はlink:{pdl10-pdf-url}[PDF]としても利用できます。
+
+== ライセンス
+
+Copyright (C) 2024 Digital Agency
+Copyright (C) 2024 Shun Sakai
+
+. 特に断りのない限り、このリポジトリの内容は__クリエイティブ・コモンズ 表示 4.0 国際 パブリック・ライセンス__の条件の下で配布されています。
+. また、一部のファイルは__CC0 1.0 全世界__の条件の下で配布されています。
+
+原典はlink:{pdl10-url}[_公共データ利用規約（第1.0版）_]の下に利用を許諾されています。
+この利用規約は__CC BY 4.0ライセンス__と互換性があります。
+原典の利用規約についてはlink:https://www.digital.go.jp/copyright-policy[]を参照して下さい。
+
+このプロジェクトはlink:{reuse-spec-url}[_REUSE Specification_]のバージョン 3.2に準拠しています。
+著作権及びライセンスの詳細な情報については、個々のファイルの著作権表示を参照して下さい。
