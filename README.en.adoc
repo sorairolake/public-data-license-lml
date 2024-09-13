@@ -59,6 +59,15 @@ asciidoctor PDL-1.0.adoc
 pandoc -f commonmark -o PDL-1.0.html -s PDL-1.0.md
 ----
 
+== Source code
+
+The upstream repository is available at
+https://github.com/sorairolake/public-data-license-lml.git.
+
+.The source code is also available at
+* https://gitlab.com/sorairolake/public-data-license-lml.git
+* https://codeberg.org/sorairolake/public-data-license-lml.git
+
 == Changelog
 
 Please see link:CHANGELOG.adoc[].
