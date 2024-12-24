@@ -30,18 +30,6 @@ https://commonmark.org/[CommonMark]::
 
   link:PDL-1.0.md[]
 
-https://djot.net/[Djot]::
-
-  link:PDL-1.0.dj[]
-
-https://orgmode.org/[Org]::
-
-  link:PDL-1.0.org[]
-
-https://docutils.sourceforge.io/rst.html[reStructuredText]::
-
-  link:PDL-1.0.rst[]
-
 === Convert to other formats
 
 These files can be converted to other formats using

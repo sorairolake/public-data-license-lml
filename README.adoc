@@ -27,18 +27,6 @@ https://commonmark.org/[CommonMark]::
 
   link:PDL-1.0.md[]
 
-https://djot.net/[Djot]::
-
-  link:PDL-1.0.dj[]
-
-https://orgmode.org/[Org]::
-
-  link:PDL-1.0.org[]
-
-https://docutils.sourceforge.io/rst.html[reStructuredText]::
-
-  link:PDL-1.0.rst[]
-
 === 他のフォーマットに変換する
 
 これらのファイルはlink:{asciidoctor-url}[Asciidoctor]やlink:{pandoc-url}[Pandoc]によって他のフォーマットに変換することができます。
