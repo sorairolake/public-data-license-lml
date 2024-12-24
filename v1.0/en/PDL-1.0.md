@@ -1,8 +1,8 @@
 # Public Data License (Version 1.0)
 
-**Note: This document is for reference only. Please refer to the Japanese
-version below for the official document.\
-[(Japanese version) Public Data License (Version 1.0) (PDF/203KB)]**
+> Note: This document is for reference only. Please refer to the Japanese
+> version below for the official document.\
+> [(Japanese version) Public Data License (Version 1.0) (PDF/203KB)]
 
 In order to make it as easy to understand and unified as possible when
 expressing its views on the use of works by public institutions such as
