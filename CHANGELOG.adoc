@@ -16,6 +16,10 @@ project adheres to https://calver.org/[Calendar Versioning].
 
 == {compare-url}/v2024.09.09\...HEAD[Unreleased]
 
+=== Added
+
+* Add reference translation in English ({pull-request-url}/6[#6])
+
 === Removed
 
 * Remove Djot, Org and reStructuredText files ({pull-request-url}/5[#5])
