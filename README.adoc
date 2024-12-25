@@ -76,8 +76,8 @@ link:CONTRIBUTING.adoc[]を参照して下さい。
 
 == ライセンス
 
-Copyright (C) 2024 Digital Agency
-Copyright (C) 2024 Shun Sakai
+* Copyright (C) 2024 Digital Agency
+* Copyright (C) 2024 Shun Sakai
 
 . 特に断りのない限り、このリポジトリの内容は__クリエイティブ・コモンズ 表示 4.0 国際 パブリック・ライセンス__の条件の下で配布されています。
 . また、一部のファイルは__CC0 1.0 全世界__の条件の下で配布されています。

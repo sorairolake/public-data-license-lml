@@ -82,8 +82,8 @@ also available as {pdl10-en-pdf-url}[PDF] or {pdl10-en-docx-url}[Word file].
 
 == License
 
-Copyright (C) 2024 Digital Agency
-Copyright (C) 2024 Shun Sakai
+* Copyright (C) 2024 Digital Agency
+* Copyright (C) 2024 Shun Sakai
 
 . Unless otherwise noted, the contents of this repository are distributed under
   the terms of the _Creative Commons Attribution 4.0 International Public
