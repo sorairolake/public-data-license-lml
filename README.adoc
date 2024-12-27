@@ -26,13 +26,13 @@ link:{pdl10-url}[*公共データ利用規約（第1.0版）*]は日本国政府
 
 https://asciidoc.org/[AsciiDoc]::
 
-  * link:v1.0/en/PDL-1.0.adoc[英語版]
-  * link:v1.0/ja/PDL-1.0.adoc[日本語版]
+  * link:assets/en/PDL-1.0.adoc[英語版]
+  * link:assets/ja/PDL-1.0.adoc[日本語版]
 
 https://commonmark.org/[CommonMark]::
 
-  * link:v1.0/en/PDL-1.0.md[英語版]
-  * link:v1.0/ja/PDL-1.0.md[日本語版]
+  * link:assets/en/PDL-1.0.md[英語版]
+  * link:assets/ja/PDL-1.0.md[日本語版]
 
 === 他のフォーマットに変換する
 
@@ -41,13 +41,13 @@ https://commonmark.org/[CommonMark]::
 .AsciiDocをHTMLに変換する
 [source,sh]
 ----
-asciidoctor v1.0/ja/PDL-1.0.adoc
+asciidoctor assets/ja/PDL-1.0.adoc
 ----
 
 .CommonMarkをHTMLに変換する
 [source,sh]
 ----
-pandoc -f commonmark -o PDL-1.0.html -s v1.0/ja/PDL-1.0.md
+pandoc -f commonmark -o PDL-1.0.html -s assets/ja/PDL-1.0.md
 ----
 
 == ソースコード

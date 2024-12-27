@@ -30,13 +30,13 @@ such as Markdown.
 
 https://asciidoc.org/[AsciiDoc]::
 
-  * link:v1.0/en/PDL-1.0.adoc[English version]
-  * link:v1.0/ja/PDL-1.0.adoc[Japanese version]
+  * link:assets/en/PDL-1.0.adoc[English version]
+  * link:assets/ja/PDL-1.0.adoc[Japanese version]
 
 https://commonmark.org/[CommonMark]::
 
-  * link:v1.0/en/PDL-1.0.md[English version]
-  * link:v1.0/ja/PDL-1.0.md[Japanese version]
+  * link:assets/en/PDL-1.0.md[English version]
+  * link:assets/ja/PDL-1.0.md[Japanese version]
 
 === Convert to other formats
 
@@ -46,13 +46,13 @@ These files can be converted to other formats using
 .Convert AsciiDoc to HTML
 [source,sh]
 ----
-asciidoctor v1.0/ja/PDL-1.0.adoc
+asciidoctor assets/ja/PDL-1.0.adoc
 ----
 
 .Convert CommonMark to HTML
 [source,sh]
 ----
-pandoc -f commonmark -o PDL-1.0.html -s v1.0/ja/PDL-1.0.md
+pandoc -f commonmark -o PDL-1.0.html -s assets/ja/PDL-1.0.md
 ----
 
 == Source code
