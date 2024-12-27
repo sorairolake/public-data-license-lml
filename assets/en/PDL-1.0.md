@@ -2,7 +2,7 @@
 
 > Note: This document is for reference only. Please refer to the Japanese
 > version below for the official document.\
-> [(Japanese version) Public Data License (Version 1.0) (PDF/203KB)]
+> [(Japanese version) Public Data License (Version 1.0) (PDF/203KB)](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/24afdf33/20240705_resources_data_outline_05.pdf)
 
 In order to make it as easy to understand and unified as possible when
 expressing its views on the use of works by public institutions such as
@@ -135,12 +135,13 @@ described in "Important note on Public Data License (Version 1.0)".
     may be modified in the future. If you are already using "This Content"
     under the Government of Japan Standard Terms of Use, these terms and
     conditions will continue to apply.
-3.  "This Terms of Use" is compatible with the [Creative Commons Attribution
-    License 4.0] (hereinafter referred to as the CC BY). National government
-    (If "This Content" is provided by a public institution such as a local
-    government instead of the national government, the public institution such
-    as the local government) permits the user to use "This Content" to which
-    "This Terms of Use" apply in accordance with CC BY.
+3.  "This Terms of Use" is compatible with the
+    [Creative Commons Attribution License 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en)
+    (hereinafter referred to as the CC BY). National government (If "This
+    Content" is provided by a public institution such as a local government
+    instead of the national government, the public institution such as the
+    local government) permits the user to use "This Content" to which "This
+    Terms of Use" apply in accordance with CC BY.
 4.  The link policy, privacy policy, accessibility, and disclaimer for the
     entire website shall be freely determined by the national or local
     government that adopts "This Terms of Use" as long as they do not
@@ -154,6 +155,3 @@ described in "Important note on Public Data License (Version 1.0)".
     the "Public Data License (Version 1.0)" may be written as "PDL 1.0" (users
     can also write it as such). In addition, PDL is an acronym of "Public Data
     License".
-
-[(Japanese version) Public Data License (Version 1.0) (PDF/203KB)]: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/24afdf33/20240705_resources_data_outline_05.pdf
-[Creative Commons Attribution License 4.0]: https://creativecommons.org/licenses/by/4.0/legalcode.en
