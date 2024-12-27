@@ -1,4 +1,7 @@
 = Public Data License (Version 1.0)
+Digital Agency
+1.0, 2024-07-05
+:lang: en
 :sectnums:
 
 NOTE: This document is for reference only. Please refer to the Japanese version
