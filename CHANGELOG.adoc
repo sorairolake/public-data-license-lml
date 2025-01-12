@@ -14,6 +14,16 @@ All notable changes to this project will be documented in this file.
 The format is based on https://keepachangelog.com/[Keep a Changelog], and this
 project adheres to https://calver.org/[Calendar Versioning].
 
+== {compare-url}/v2024.09.09\...v2025.01.12[2025.01.12] - 2025-01-12
+
+=== Added
+
+* Add reference translation in English ({pull-request-url}/6[#6])
+
+=== Removed
+
+* Remove Djot, Org and reStructuredText files ({pull-request-url}/5[#5])
+
 == {project-url}/releases/tag/v2024.09.09[2024.09.09] - 2024-09-09
 
 === Added

@@ -8,12 +8,17 @@
 :asciidoctor-url: https://asciidoctor.org/
 :pandoc-url: https://pandoc.org/
 :pdl10-pdf-url: {da-url}/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/24afdf33/20240705_resources_data_outline_05.pdf
+:pdl10-docx-url: {da-url}/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/41722b25/20240705_resources_data_outline_06.docx
+:pdl10-en-url: {da-url}/en/resources/open_data/public_data_license_v1.0
+:pdl10-en-pdf-url: {da-url}/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/3d15f10d/20241122_resource_open_data_01.pdf
+:pdl10-en-docx-url: {da-url}/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/2b1943f2/20241122_resource_open_data_01.docx
 :reuse-spec-url: https://reuse.software/spec/
 
 link:README.en.adoc[English]
 
 link:{pdl10-url}[*公共データ利用規約（第1.0版）*]は日本国政府や地方公共団体などの公的機関が使用するために2024年7月にデジタル庁が定めた利用規約です。
-2024年9月5日現在、日本語のウェブテキストまたはPDFとして利用できます。
+2024年12月24日現在、ウェブテキスト、PDFまたはWordファイルとして利用できます。
+現時点では、日本語の公式文書と英語の参考訳が利用できます。
 
 このプロジェクトはMarkdownなどの軽量マークアップ言語で書かれたこの利用規約を提供します。
 
@@ -21,23 +26,13 @@ link:{pdl10-url}[*公共データ利用規約（第1.0版）*]は日本国政府
 
 https://asciidoc.org/[AsciiDoc]::
 
-  link:PDL-1.0.adoc[]
+  * link:assets/en/PDL-1.0.adoc[英語版]
+  * link:assets/ja/PDL-1.0.adoc[日本語版]
 
 https://commonmark.org/[CommonMark]::
 
-  link:PDL-1.0.md[]
-
-https://djot.net/[Djot]::
-
-  link:PDL-1.0.dj[]
-
-https://orgmode.org/[Org]::
-
-  link:PDL-1.0.org[]
-
-https://docutils.sourceforge.io/rst.html[reStructuredText]::
-
-  link:PDL-1.0.rst[]
+  * link:assets/en/PDL-1.0.md[英語版]
+  * link:assets/ja/PDL-1.0.md[日本語版]
 
 === 他のフォーマットに変換する
 
@@ -46,14 +41,22 @@ https://docutils.sourceforge.io/rst.html[reStructuredText]::
 .AsciiDocをHTMLに変換する
 [source,sh]
 ----
-asciidoctor PDL-1.0.adoc
+asciidoctor assets/ja/PDL-1.0.adoc
 ----
 
 .CommonMarkをHTMLに変換する
 [source,sh]
 ----
-pandoc -f commonmark -o PDL-1.0.html -s PDL-1.0.md
+pandoc -f commonmark -o PDL-1.0.html -s assets/ja/PDL-1.0.md
 ----
+
+== ソースコード
+
+上流リポジトリはlink:https://github.com/sorairolake/public-data-license-lml.git[]で公開されています。
+
+.ソースコードは以下のリンク先からも入手できます
+* https://gitlab.com/sorairolake/public-data-license-lml.git
+* https://codeberg.org/sorairolake/public-data-license-lml.git
 
 == 変更履歴
 
@@ -66,12 +69,15 @@ link:CONTRIBUTING.adoc[]を参照して下さい。
 == 原典
 
 原典はlink:{pdl10-url}[]で参照できます。
-この利用規約はlink:{pdl10-pdf-url}[PDF]としても利用できます。
+この利用規約はlink:{pdl10-pdf-url}[PDF]またはlink:{pdl10-docx-url}[Wordファイル]としても利用できます。
+
+英語の参考訳はlink:{pdl10-en-url}[]で参照できます。
+これはlink:{pdl10-en-pdf-url}[PDF]またはlink:{pdl10-en-docx-url}[Wordファイル]としても利用できます。
 
 == ライセンス
 
-Copyright (C) 2024 Digital Agency
-Copyright (C) 2024 Shun Sakai
+* Copyright (C) 2024 Digital Agency
+* Copyright (C) 2024 Shun Sakai
 
 . 特に断りのない限り、このリポジトリの内容は__クリエイティブ・コモンズ 表示 4.0 国際 パブリック・ライセンス__の条件の下で配布されています。
 . また、一部のファイルは__CC0 1.0 全世界__の条件の下で配布されています。
