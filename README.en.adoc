@@ -96,6 +96,6 @@ The source is licensed under the
 compatible with the _CC BY 4.0 license_. For the terms of use of the source,
 see https://www.digital.go.jp/copyright-policy.
 
-This project is compliant with version 3.2 of the
+This project is compliant with version 3.3 of the
 {reuse-spec-url}[_REUSE Specification_]. See copyright notices of individual
 files for more details on copyright and licensing information.

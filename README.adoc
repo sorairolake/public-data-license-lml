@@ -86,5 +86,5 @@ link:CONTRIBUTING.adoc[]を参照して下さい。
 この利用規約は__CC BY 4.0ライセンス__と互換性があります。
 原典の利用規約についてはlink:https://www.digital.go.jp/copyright-policy[]を参照して下さい。
 
-このプロジェクトはlink:{reuse-spec-url}[_REUSE Specification_]のバージョン 3.2に準拠しています。
+このプロジェクトはlink:{reuse-spec-url}[_REUSE Specification_]のバージョン 3.3に準拠しています。
 著作権及びライセンスの詳細な情報については、個々のファイルの著作権表示を参照して下さい。
