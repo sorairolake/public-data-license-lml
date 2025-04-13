@@ -54,10 +54,6 @@ pandoc -f commonmark -o PDL-1.0.html -s assets/ja/PDL-1.0.md
 
 上流リポジトリはlink:https://github.com/sorairolake/public-data-license-lml.git[]で公開されています。
 
-.ソースコードは以下のリンク先からも入手できます
-* https://gitlab.com/sorairolake/public-data-license-lml.git
-* https://codeberg.org/sorairolake/public-data-license-lml.git
-
 == 変更履歴
 
 link:CHANGELOG.adoc[]を参照して下さい。
