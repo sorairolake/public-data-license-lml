@@ -3,6 +3,7 @@ Digital Agency
 1.0, 2024-07-05
 :lang: en
 :sectnums:
+:doctype: book
 
 NOTE: This document is for reference only. Please refer to the Japanese version
 below for the official document. +
