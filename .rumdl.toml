@@ -5,7 +5,3 @@
 [global]
 disable = ["MD013", "MD036"]
 exclude = [".github/"]
-
-[MD030]
-ol-multi = 2
-ol-single = 2
