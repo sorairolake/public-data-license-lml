@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2026 Shun Sakai
+#
+# SPDX-License-Identifier: CC0-1.0
+
+[global]
+disable = ["MD013", "MD036"]
+exclude = [".github/"]
+
+[MD030]
+ol-multi = 2
+ol-single = 2
