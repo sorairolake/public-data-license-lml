@@ -20,7 +20,7 @@ link:{pdl10-url}[*公共データ利用規約（第1.0版）*]は日本国政府
 2024年12月24日現在、ウェブテキスト、PDFまたはWordファイルとして利用できます。
 現時点では、日本語の公式文書と英語の参考訳が利用できます。
 
-このプロジェクトはMarkdownなどの軽量マークアップ言語で書かれたこの利用規約を提供します。
+このプロジェクトは軽量マークアップ言語で書かれたこの利用規約を提供します。
 
 == 利用可能なフォーマット
 
@@ -28,11 +28,6 @@ https://asciidoc.org/[AsciiDoc]::
 
   * link:assets/en/PDL-1.0.adoc[英語版]
   * link:assets/ja/PDL-1.0.adoc[日本語版]
-
-https://commonmark.org/[CommonMark]::
-
-  * link:assets/en/PDL-1.0.md[英語版]
-  * link:assets/ja/PDL-1.0.md[日本語版]
 
 === 他のフォーマットに変換する
 
@@ -42,12 +37,6 @@ https://commonmark.org/[CommonMark]::
 [source,sh]
 ----
 asciidoctor assets/ja/PDL-1.0.adoc
-----
-
-.CommonMarkをHTMLに変換する
-[source,sh]
-----
-pandoc -f commonmark -o PDL-1.0.html -s assets/ja/PDL-1.0.md
 ----
 
 == ソースコード

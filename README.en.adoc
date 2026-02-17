@@ -23,8 +23,7 @@ such as the Government of Japan or local public entities. As of 24 December
 official document in Japanese and the reference translation in English are
 available.
 
-This project provides the terms of use written in lightweight markup languages
-such as Markdown.
+This project provides the terms of use written in a lightweight markup language.
 
 == Available formats
 
@@ -32,11 +31,6 @@ https://asciidoc.org/[AsciiDoc]::
 
   * link:assets/en/PDL-1.0.adoc[English version]
   * link:assets/ja/PDL-1.0.adoc[Japanese version]
-
-https://commonmark.org/[CommonMark]::
-
-  * link:assets/en/PDL-1.0.md[English version]
-  * link:assets/ja/PDL-1.0.md[Japanese version]
 
 === Convert to other formats
 
@@ -47,12 +41,6 @@ These files can be converted to other formats using
 [source,sh]
 ----
 asciidoctor assets/ja/PDL-1.0.adoc
-----
-
-.Convert CommonMark to HTML
-[source,sh]
-----
-pandoc -f commonmark -o PDL-1.0.html -s assets/ja/PDL-1.0.md
 ----
 
 == Source code
